@@ -1,4 +1,4 @@
-# Volunteerist
+# Volunteerism
 **by Solomon Dove, Elijah Dove, Camille Fogg, and Kevin Ross**
 
 Have you ever wanted to give back to your community? Ever felt isolated or in need of assistance? Meet Volunteerist, an app for connecting people to local volunteer opportunities. Volunteerist provides a platform for both individuals and small organizations in need of help to staff events, find assistance, and connect with their neighbors.  Volunteerists are able to respond to these 'asks' by accepting and completing them as tasks. Volunteerists can also 'offer' their services to those in their local area, describing their skills or work they are willing to do. Upon completion, individuals build their number of community service hours and level up their profile while connecting to and building community.
